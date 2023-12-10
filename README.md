@@ -15,8 +15,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone url
-   cd starwar
+   git clone https://github.com/AdnanGulzar/starwar.git
    npm install
    npm run dev
 
